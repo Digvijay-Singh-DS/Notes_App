@@ -1,0 +1,19 @@
+# Flutter/Dart specific
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+ios/Pods/
+pubspec.lock
+
+# IDE/Editor specific
+.idea/
+*.iml
+.vscode/
+
+# macOS specific
+.DS_Store
+
+# Others
+*.log
